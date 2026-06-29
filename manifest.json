@@ -1,0 +1,14 @@
+{
+  "name": "北医康复医院健康管理平台",
+  "short_name": "北医康复",
+  "description": "北医康复医院健康管理平台 - AI Studio 原型",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
